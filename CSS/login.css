@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    font-size: xx-large;
+    color:rgb(114, 189, 233);
+    font-family: serif;
+    background-image: url("../IMAGE/loginbg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.login{
+    background-color: rgb(92, 212, 76);
+    border-radius: 25%;
+    border-width: thick;
+    padding:10px 20px;
+    font-size: 20px;
+
+
+}
+.form{
+  
+    text-align: center;
+   
+}
+button:hover{
+    background-color: rgb(235, 208, 156);
+}
+h1{
+   font-weight: bolder;
+   color:rgb(219, 172, 15); 
+   font-family: cursive; 
+}
+label{
+    padding: 10px 8px;
+    font-size: 24px;
+   
+}
+::placeholder {
+    border:10px ;
+    font-size: 15px;
+  }  
+

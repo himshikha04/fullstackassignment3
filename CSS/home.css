@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-image: url("../IMAGE/homebg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    
+}
+h1{
+    font-family: cursive;
+    color:rgb(201, 241, 201);
+   
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+   
+}
+h2:hover{
+color: goldenrod;
+
+}

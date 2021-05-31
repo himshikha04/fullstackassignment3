@@ -1,0 +1,26 @@
+body{
+    background-image: url("../IMAGE/signbg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color:rgb(43, 41, 38);
+    font-size: xx-large;
+}
+form{
+    text-align: center;
+}
+.signup{
+    background-color: rgb(92, 212, 76);
+    border-radius: 25%;
+    border-width: thick;
+    padding:10px 20px;
+    font-size: 20px;
+}
+button:hover{
+    background-color: rgb(228, 167, 177);
+}
+h1{
+    font-weight: bolder;
+    color:rgb(178, 157, 211);
+    font-family: cursive;
+
+}
